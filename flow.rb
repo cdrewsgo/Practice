@@ -9,8 +9,8 @@ if  name == 'Ariana'
 
 puts "What are you doing tonight?"
 reply = gets.chomp
-if reply != "Getting fucked up!" 
-	puts "You're gay then, right?"
+if reply != "Getting swagged up!" 
+	puts "You're dumb then, right?"
 	else
 	puts "I like your style"
 		end

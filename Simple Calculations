@@ -1,0 +1,11 @@
+puts 1+2
+puts 5**2
+puts 3*6
+
+puts "What's your number?"
+number = gets.chomp
+if number % 2 == 0
+  puts 'even'
+  elsif number % 2 != 0
+  puts 'odd'
+end

@@ -6,7 +6,7 @@ else
 	puts "Don't you mean " + name.capitalize + '?'
 	reply = gets.chomp
 	if reply == "Yes"
-		puts "That's what I thought, bitch, sitdown." #Why is she so fucking mean?
+		puts "That's what I thought, sitdown." #Why is she so mean?
 	else
 		puts "Apparently you have a problem with capitalization" + name.capitalize + "How would you feel if I spelled your name like so," + name.downcase + '?' #This is that mean shit I was talking about!
 	end
